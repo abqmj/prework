@@ -10,13 +10,13 @@
 	</head>
 	<body>
 		<address> <dl align=right><dt>Dr. Eleanor Gaye</dt>
-			<dd align=right>Awesome Science faculty</dd>
-			<dd align=right>University of Awesome</dd>
-			<dd align=right>Bobtown, CA 99999,</dd>
-			<dd align=right>USA</dd>
-			<dd align=right>Tel: 123-456-7890</dd>
-			<dd align=right>Email: no_reply@example.</dd>
-			<dd align=right>20 January 2016</dd>
+			<dd>Awesome Science faculty</dd>
+			<dd>University of Awesome</dd>
+			<dd>Bobtown, CA 99999,</dd>
+			<dd>USA</dd>
+			<dd>Tel: 123-456-7890</dd>
+			<dd>Email: no_reply@example.</dd>
+			<dd>20 January 2016</dd>
 			</dl></address>
 		<dt>Miss Eileen Dover</dt>
 		<dt>4321 Cliff Top Edge</dt>
