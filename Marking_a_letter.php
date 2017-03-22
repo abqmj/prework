@@ -6,7 +6,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<title>University of Awesome</title>
 		<meta name="description" content="RE: Eileen Dover University Application">
-		<link rel="stylesheet" href="main.css">
+		<link rel="stylesheet" href="markingaletter.css">
 	</head>
 	<body>
 		<address> <dl align=right><dt>Dr. Eleanor Gaye</dt>
@@ -18,10 +18,10 @@
 			<dd>Email: no_reply@example.</dd>
 			<dd>20 January 2016</dd>
 			</dl></address>
-		<dt>Miss Eileen Dover</dt>
-		<dt>4321 Cliff Top Edge</dt>
-		<dt>Dover,CT9 XXX</dt>
-		<dt>UK</dt>
+		<dl><dt>Miss Eileen Dover</dt>
+		<dd>4321 Cliff Top Edge</dd>
+		<dd>Dover,CT9 XXX</dd>
+		<dd>UK</dd></dl>
 		<h1>Re: Eileen Dover university application</h1>
 		<p>Dear Eileen,</p>
 		<p>Thank you for your recent application to join us at the University of Awesome's science faculty to study as part of your PhD next year. I will answer your questions one by one, in the following sections.</p>
@@ -32,8 +32,8 @@
 			<li>Second semester: 15 January 2017</li>
 			<li>Third semester: 2 May 2017</li>
 		</ul>
-		Please let me know if this is ok, and if so which start date you would prefer.</p>
-		<pa>You can find more information about important university dates on <a href="https://UNIOFAWESOME.com" title="Awesome University">our website</a></pa>
+		<p>Please let me know if this is ok, and if so which start date you would prefer.</p>
+		<p>You can find more information about important university dates on <a href="https://UNIOFAWESOME.com" title="Awesome University">our website</a></p>
 		<h2>Subjects of study</h2>
 		<p>At the Awesome Science Faculty, we have a pretty open-minded research facility — as long as the subjects fall somewhere in the realm of science and technology. You seem like an intelligent, dedicated researcher, and just the kind of person we'd like to have on our team. Saying that, of the ideas you submitted we were most intrigued by are as follows, in order of priority:</p>
 		<ul>
@@ -44,16 +44,17 @@
 		<p>So please can you provide more information on each of these subjects, including how long you'd expect the research to take, required staff and other resources, and anything else you think we'd need to know? Thanks.</p>
 		<h3>Exotic dance moves</h3>
 		<p>Yes, you are right! As part of my post-doctorate work, I did study exotic tribal dances. To answer your question, my favourite dances are as follows, with definitions: </p>
-		<dl>Polynesian chicken dance</dl>
-		<dt>A little known but very influential dance dating back as far as 300BC, a whole village would dance around in a circle like chickens, to encourage their livestock or be "fruitful".</dt>
-		<dl>Icelandic brownian shuffle</dl>
-		<dt>Before the Icelanders developed fire as a means of getting warm, they used to practice this dance, which involved huddling close together in a circle on the floor, and shuffling their bodies around in imperceptably tiny, very rapid movements. One of my fellow students used to say that he thought this dance inspired modern styles such as Twerking.</dt>
-		<dl>Arctic robot dance</dl>
-		<dt>An interesting example of historic misinformation, English explorers in the 1960s believed to have discovered a new dance style characterised by "robotic", stilted movements, being practiced by inhabitants of Northern Alaska and Canada. Later on however it was discovered that they were just moving like this because they were really cold.</dt>
-		<p>For more of my research, see my exotic dance research page.
+		<dl><dt>Polynesian chicken dance</dt>
+		<dd>A little known but very influential dance dating back as far as 300BC, a whole village would dance around in a circle like chickens, to encourage their livestock or be "fruitful".</dd>
+		<dt>Icelandic brownian shuffle</dt>
+		<dd>Before the Icelanders developed fire as a means of getting warm, they used to practice this dance, which involved huddling close together in a circle on the floor, and shuffling their bodies around in imperceptably tiny, very rapid movements. One of my fellow students used to say that he thought this dance inspired modern styles such as Twerking.</dd>
+		<dt>Arctic robot dance</dt>
+		<dd>An interesting example of historic misinformation, English explorers in the 1960s believed to have discovered a new dance style characterised by "robotic", stilted movements, being practiced by inhabitants of Northern Alaska and Canada. Later on however it was discovered that they were just moving like this because they were really cold.</dd>
+		</dl>
+			<p>For more of my research, see my exotic dance research page.
 		</p>
 		<p>Yours sincerely,</p>
-		<pa>Dr Eleanor Gaye</pa>
+		<p>Dr Eleanor Gaye</p>
 		<p>University of Awesome motto: "Be excellent to each other."--<em>Bill S Preston, Esq</em></p>
 	</body>
 </html>
