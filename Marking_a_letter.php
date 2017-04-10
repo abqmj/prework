@@ -55,6 +55,6 @@
 		</p>
 		<p>Yours sincerely,</p>
 		<p>Dr Eleanor Gaye</p>
-		<p>University of Awesome motto: "Be excellent to each other."--<em>Bill S Preston, Esq</em></p>
+		<p>University of Awesome motto: "Be excellent to each other."--<em>Bill S Preston, esq</em></p>
 	</body>
 </html>
